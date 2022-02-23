@@ -25,7 +25,6 @@ def calculateCompoundInterest():
     ci = a - client_one_principal
     limited_float = round(ci, 2)
     print('Compound Interest:',limited_float)
-
 calculateCompoundInterest()
 
  #print("Compound Interest: "+str(intrest))
